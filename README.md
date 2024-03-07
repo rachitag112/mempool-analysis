@@ -1,7 +1,3 @@
-# Welcome to streamlit
+# Mempool Transaction Analysis
 
-This is the app you get when you run `streamlit hello`, extracted as its own app.
-
-Edit [Hello.py](./Hello.py) to customize this app to your heart's desire. ❤️
-
-Check it out on [Streamlit Community Cloud](https://st-hello-app.streamlit.app/)
+This project is to get mempool transaction data through Bitquery API v2 and showcase it with streamlit
